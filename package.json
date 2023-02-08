@@ -1,0 +1,25 @@
+{
+  "name": "ds-cli",
+  "version": "1.0.0",
+  "description": "A node based cli which implements &amp; interacts with an In memory Data Structure",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aquib-J/DS-cli.git"
+  },
+  "author": "aquib-J",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aquib-J/DS-cli/issues"
+  },
+  "homepage": "https://github.com/aquib-J/DS-cli#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
